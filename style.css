@@ -266,7 +266,7 @@ a:any-link {
     --MEDIA-BOX-ICONS-WIDTH: 90%;
 }
 
-@media screen and (max-width: 1351px) {
+@media screen and (max-width: 1175px) {
     body {
         width: var(--MEDIA-BODY-WIDTH);
     }
